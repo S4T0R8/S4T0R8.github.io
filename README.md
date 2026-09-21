@@ -4,7 +4,7 @@ This site is just a mock for testing private(non-public) Google Cloud Applicatio
 If you need any support – you can write to `[nobody]`.
 
 
-Privacy page: [privacy](/privacy)
+Privacy page: [privacy](/privacy.md)
 
 Terms page: [terms](/terms)
 
