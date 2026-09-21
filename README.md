@@ -6,7 +6,7 @@ If you need any support – you can write to `[nobody]`.
 
 Privacy page: [privacy](/privacy.md)
 
-Terms page: [terms](/terms)
+Terms page: [terms](/terms.md)
 
 
 Copyright © 2026 S4T0R8.
